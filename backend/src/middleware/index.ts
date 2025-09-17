@@ -1,0 +1,1 @@
+export { authenticateToken, AuthenticatedRequest } from './auth';
