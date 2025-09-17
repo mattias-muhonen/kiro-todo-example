@@ -1,3 +1,9 @@
+This is a project entirely created with Kiro (Claude Sonnet 4). It was given a task to do a "todo app where tasks can be assigned to users".
+- Look into .kiro/specs/todo-app-with-assignments to see the spec it created
+- tasks are partially completed
+
+---
+
 # Todo App with Assignments
 
 A collaborative todo application that allows users to create, manage, and assign tasks to other users.
